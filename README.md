@@ -1,3 +1,5 @@
+ <title>Quantitative Methods Series</title>
+
 ## Description
 
 Research often involves data. We use it not only to weight the evidence for a hypothesis, but also to find ways to make sense of our subject; to make new discoveries; and to fuel future inquiries. With the increasing availability of data, quantitative methods are becoming ever more useful. 
@@ -12,11 +14,11 @@ However, working with data can be daunting, particularly when starting out. The 
 
   | Sessions (Q2/2020) | Files |
   | :--- | :---: | 
-  | 1. (21/04) Introduction and first steps | &nbsp;&nbsp;<img src="./fa/file-alt-regular.svg"  width="25"/>&nbsp;&nbsp;<img src="./fa/markdown-brands.svg" width="35"/>&nbsp;&nbsp;<img src="./fa/r-project-brands.svg"  width="35"/> |
-  | 2. (05/05) Exploring and generating | |
-  | 3. (19/05) TBA | |
-  | 4. (02/06) TBA | |
-  | 5. (16/06) TBA | |
+  | (21/04) Introduction and first steps | &nbsp;&nbsp;<img src="./fa/file-alt-regular.svg"  width="25"/>&nbsp;&nbsp;<img src="./fa/markdown-brands.svg" width="35"/>&nbsp;&nbsp;<img src="./fa/r-project-brands.svg"  width="35"/> |
+  | (05/05) Data exploration and generation | |
+  | (19/05) TBA | |
+  | (02/06) TBA | |
+  | (16/06) TBA | |
 
 ## Resources
 
