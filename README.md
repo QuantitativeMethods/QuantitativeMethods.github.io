@@ -15,7 +15,7 @@ However, working with data can be daunting, particularly when starting out. The 
 
 ## Sessions (Q2/2020)
 
-  1. (21/04) First steps .HTML .Rmd <i class="fab fa-r-project"></i>
+  1. (21/04) First steps .HTML <i class="fab fa-markdown"></i> <i class="fab fa-r-project"></i>
   2. (05/05) Exploring and generating 
   3. (19/05) TBA
   4. (02/06) TBA
