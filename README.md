@@ -1,8 +1,3 @@
-<head>
- 			 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-</head>
-
-<body>
 ## Description
 
 Research often involves data. We use it not only to weight the evidence for a hypothesis, but also to find ways to make sense of our subject; to make new discoveries; and to fuel future inquiries. With the increasing availability of data, quantitative methods are becoming ever more useful. 
@@ -16,7 +11,7 @@ However, working with data can be daunting, particularly when starting out. The 
 
 ## Sessions (Q2/2020)
 
-  1. (21/04) First steps .HTML <i class="fab fa-markdown"></i> <i class="fab fa-r-project"></i>
+  1. (21/04) First steps ![](./fa/file-alt-regular.svg) ![](./fa/markdown-brands.svg) ![](./fa/r-project-brands.svg)
   2. (05/05) Exploring and generating 
   3. (19/05) TBA
   4. (02/06) TBA
