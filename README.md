@@ -11,7 +11,7 @@ However, working with data can be daunting, particularly when starting out. The 
 
 ## Sessions (Q2/2020)
 
-  1. (21/04) First steps ![](./fa/file-alt-regular.svg) ![](./fa/markdown-brands.svg) ![](./fa/r-project-brands.svg)
+  1. (21/04) First steps ![](./fa/file-alt-regular.svg = 50x) ![](./fa/markdown-brands.svg = 30x) ![](./fa/r-project-brands.svg = 120x)
   2. (05/05) Exploring and generating 
   3. (19/05) TBA
   4. (02/06) TBA
@@ -23,5 +23,3 @@ However, working with data can be daunting, particularly when starting out. The 
 
 ## People
 The series is organized by [Mario Bisiada](http://www.mariobisiada.de/), [Gemma Boleda](https://gboleda.github.io/) & [Thomas Brochhagen](https://brochhagen.github.io). Feel free to get in touch!
-</body>
-
