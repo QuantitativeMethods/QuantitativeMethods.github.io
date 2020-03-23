@@ -9,11 +9,10 @@ However, working with data can be daunting, particularly when starting out. The 
 ... short description of session structure or lack thereof ...
 
 
-## Sessions (Q2/2020)
 
-  | | |
-  | --- | --- | 
-  | 1. (21/04) First steps | &nbsp;&nbsp;<img src="./fa/file-alt-regular.svg"  width="25"/>&nbsp;&nbsp;<img src="./fa/markdown-brands.svg" width="35"/>&nbsp;&nbsp;<img src="./fa/r-project-brands.svg"  width="35"/> |
+  | Sessions (Q2/2020) | Files |
+  | :--- | :---: | 
+  | 1. (21/04) Introduction and first steps | &nbsp;&nbsp;<img src="./fa/file-alt-regular.svg"  width="25"/>&nbsp;&nbsp;<img src="./fa/markdown-brands.svg" width="35"/>&nbsp;&nbsp;<img src="./fa/r-project-brands.svg"  width="35"/> |
   | 2. (05/05) Exploring and generating | |
   | 3. (19/05) TBA | |
   | 4. (02/06) TBA | |
