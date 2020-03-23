@@ -11,7 +11,7 @@ However, working with data can be daunting, particularly when starting out. The 
 
 ## Sessions (Q2/2020)
 
-  1. (21/04) First steps <img src="./fa/file-alt-regular.svg"  width="25"/> <img src="./fa/markdown-brands.svg"  width="15"/> <img src="./fa/r-project-brands.svg"  width="20"/> 
+  1. (21/04) First steps <br> <img src="./fa/file-alt-regular.svg"  width="20"/> <img src="./fa/markdown-brands.svg"  width="22.5"/> <img src="./fa/r-project-brands.svg"  width="22.5"/> 
   2. (05/05) Exploring and generating 
   3. (19/05) TBA
   4. (02/06) TBA
