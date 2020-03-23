@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Description
 
-You can use the [editor on GitHub](https://github.com/QuantitativeMethods/QuantitativeMethods.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Research often involves data. We use it not only to weight the evidence for a hypothesis, but also to find ways to make sense of our subject; to make new discoveries; and to fuel future inquiries. With the increasing availability of data, quantitative methods are becoming ever more useful. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+However, working with data can be daunting, particularly when starting out. The goal of this training series is to provide a forum for discussion and guidance for your quantitative needs. It is offered as part of the training within the PhD program of the [Translation and Language Sciences Department](https://www.upf.edu/en/web/universitat/-/departament-de-traduccio-i-ciencies-del-llenguatge) and is entirely optional. 
 
-### Markdown
+## Structure
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+... short description of session structure or lack thereof ...
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Sessions (Q2/2020)
 
-- Bulleted
-- List
+  1. (21/04) First steps .HTML .Rmd <i class="fab fa-r-project"></i>
+  2. (05/05) Exploring and generating 
+  3. (19/05) TBA
+  4. (02/06) TBA
+  5. (16/06) TBA
 
-1. Numbered
-2. List
+## Resources
 
-**Bold** and _Italic_ and `Code` text
+... here we collect useful reasources t...
 
-[Link](url) and ![Image](src)
-```
+## People
+The series is organized by [Mario Bisiada](http://www.mariobisiada.de/), [Gemma Boleda](https://gboleda.github.io/) & [Thomas Brochhagen](https://brochhagen.github.io). Feel free to get in touch!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QuantitativeMethods/QuantitativeMethods.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
