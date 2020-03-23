@@ -13,7 +13,7 @@ However, working with data can be daunting, particularly when starting out. The 
 
   1. (21/04) First steps
 
-    <img src="./fa/file-alt-regular.svg"  width="25"/> <img src="./fa/markdown-brands.svg"  width="40"/> <img src="./fa/r-project-brands.svg"  width="40"/> 
+   <img src="./fa/file-alt-regular.svg"  width="25"/> <img src="./fa/markdown-brands.svg" width="35"/> <img src="./fa/r-project-brands.svg"  width="35"/>
 
   2. (05/05) Exploring and generating 
   3. (19/05) TBA
