@@ -1,5 +1,5 @@
 <head>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+<script src="https://use.fontawesome.com/90e7fe883d.js"></script>
 </head>
 
 ## Description
