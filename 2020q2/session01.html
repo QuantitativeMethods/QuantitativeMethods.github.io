@@ -369,16 +369,17 @@ summary {
 </div>
 
 
-<div id="pre-session-tasks" class="section level1">
-<h1>Pre-session tasks</h1>
+<div id="this-weeks-pre-session-tasks" class="section level1">
+<h1>This week’s pre-session tasks</h1>
+<p>We will ask you to do a few things before each session. Do come to the session even if you didn’t manage. We can help.</p>
 <p>We will use the <a href="https://www.r-project.org/">programming language R</a>. You do not need to have programmed neither in R nor any other language before. However, you should have access to a machine that can run R code to get the most out of this class. Additionally, we also recommend installing <a href="https://rstudio.com/">RStudio</a>. This is a graphical interface that allows you to manipulate R code &amp; data more easily. You don’t strictly need it, but chances are it’s going to make your quantitative life easier.</p>
 <div id="task-1-install-r-and-rstudio" class="section level2">
 <h2>Task 1: Install R and RStudio</h2>
-<p>The details of how to install R and RStudio depend on your operating system. <a href="https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu">This Datacamp tutorial</a> gives a detailed description on how to do so for Windows, Mac OS X, and Ubuntu.</p>
+<p>The details of how to install R and RStudio depend on your operating system. <a href="https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu">This Datacamp tutorial</a> gives instructions on how to do so for Windows, Mac OS X, and Ubuntu.</p>
 </div>
 <div id="task-2-test-installation" class="section level2">
 <h2>Task 2: Test installation</h2>
-<p>Make sure your installation was successful.</p>
+<p>Make sure your installation was successful by running some R code.</p>
 <p>One way to do so is to <a href="https://quantitativemethods.github.io/2020q2/session01.Rmd">download this page’s markdown</a>; open it in RStudio; and press the green “play”-button to the right of the grey box just below this text. That tells Rstudio to run the code inside the box.</p>
 <pre class="r"><code>print('Welcome to the Quantitative Methods Series')</code></pre>
 <pre><code>## [1] &quot;Welcome to the Quantitative Methods Series&quot;</code></pre>
@@ -393,8 +394,9 @@ x+y </code></pre>
 <pre><code>## [1] 10</code></pre>
 <pre class="r"><code>x**y</code></pre>
 <pre><code>## [1] 32</code></pre>
-<p>You can play around with this interactive document as much as you want. That’s why we’re making it available. For each session, you can find:</p>
+<p>You can play around with this interactive document as much as you want. That’s why we’re making it available. For each session, you will find:</p>
 <ul>
+<li>A rendered HTML file <img src="data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhciIgZGF0YS1pY29uPSJmaWxlLWFsdCIgY2xhc3M9InN2Zy1pbmxpbmUtLWZhIGZhLWZpbGUtYWx0IGZhLXctMTIiIHJvbGU9ImltZyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMzg0IDUxMiI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNMjg4IDI0OHYyOGMwIDYuNi01LjQgMTItMTIgMTJIMTA4Yy02LjYgMC0xMi01LjQtMTItMTJ2LTI4YzAtNi42IDUuNC0xMiAxMi0xMmgxNjhjNi42IDAgMTIgNS40IDEyIDEyem0tMTIgNzJIMTA4Yy02LjYgMC0xMiA1LjQtMTIgMTJ2MjhjMCA2LjYgNS40IDEyIDEyIDEyaDE2OGM2LjYgMCAxMi01LjQgMTItMTJ2LTI4YzAtNi42LTUuNC0xMi0xMi0xMnptMTA4LTE4OC4xVjQ2NGMwIDI2LjUtMjEuNSA0OC00OCA0OEg0OGMtMjYuNSAwLTQ4LTIxLjUtNDgtNDhWNDhDMCAyMS41IDIxLjUgMCA0OCAwaDIwNC4xQzI2NC44IDAgMjc3IDUuMSAyODYgMTQuMUwzNjkuOSA5OGM5IDguOSAxNC4xIDIxLjIgMTQuMSAzMy45em0tMTI4LTgwVjEyOGg3Ni4xTDI1NiA1MS45ek0zMzYgNDY0VjE3NkgyMzJjLTEzLjMgMC0yNC0xMC43LTI0LTI0VjQ4SDQ4djQxNmgyODh6Ij48L3BhdGg+PC9zdmc+" width="22" /></li>
 <li>the Rmarkdown source <img src="data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhYiIgZGF0YS1pY29uPSJtYXJrZG93biIgY2xhc3M9InN2Zy1pbmxpbmUtLWZhIGZhLW1hcmtkb3duIGZhLXctMjAiIHJvbGU9ImltZyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNjQwIDUxMiI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNNTkzLjggNTkuMUg0Ni4yQzIwLjcgNTkuMSAwIDc5LjggMCAxMDUuMnYzMDEuNWMwIDI1LjUgMjAuNyA0Ni4yIDQ2LjIgNDYuMmg1NDcuN2MyNS41IDAgNDYuMi0yMC43IDQ2LjEtNDYuMVYxMDUuMmMwLTI1LjQtMjAuNy00Ni4xLTQ2LjItNDYuMXpNMzM4LjUgMzYwLjZIMjc3di0xMjBsLTYxLjUgNzYuOS02MS41LTc2Ljl2MTIwSDkyLjNWMTUxLjRoNjEuNWw2MS41IDc2LjkgNjEuNS03Ni45aDYxLjV2MjA5LjJ6bTEzNS4zIDMuMUwzODEuNSAyNTZINDQzVjE1MS40aDYxLjVWMjU2SDU2NnoiPjwvcGF0aD48L3N2Zz4=" width="35" /></li>
 <li>just the R code (without the text) <img src="data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhYiIgZGF0YS1pY29uPSJyLXByb2plY3QiIGNsYXNzPSJzdmctaW5saW5lLS1mYSBmYS1yLXByb2plY3QgZmEtdy0xOSIgcm9sZT0iaW1nIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1ODEgNTEyIj48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik01ODEgMjI2LjZDNTgxIDExOS4xIDQ1MC45IDMyIDI5MC41IDMyUzAgMTE5LjEgMCAyMjYuNkMwIDMyMi40IDEwMy4zIDQwMiAyMzkuNCA0MTguMVY0ODBoOTkuMXYtNjEuNWMyNC4zLTIuNyA0Ny42LTcuNCA2OS40LTEzLjlMNDQ4IDQ4MGgxMTJsLTY3LjQtMTEzLjdjNTQuNS0zNS40IDg4LjQtODQuOSA4OC40LTEzOS43em0tNDY2LjggMTQuNWMwLTczLjUgOTguOS0xMzMgMjIwLjgtMTMzczIxMS45IDQwLjcgMjExLjkgMTMzYzAgNTAuMS0yNi41IDg1LTcwLjMgMTA2LjQtMi40LTEuNi00LjctMi45LTYuNC0zLjctMTAuMi01LjItMjcuOC0xMC41LTI3LjgtMTAuNXM4Ni42LTYuNCA4Ni42LTkyLjctOTAuNi04Ny45LTkwLjYtODcuOWgtMTk5VjM2MWMtNzQuMS0yMS41LTEyNS4yLTY3LjEtMTI1LjItMTE5Ljl6bTIyNS4xIDM4LjN2LTU1LjZjNTcuOCAwIDg3LjgtNi44IDg3LjggMjcuMyAwIDM2LjUtMzguMiAyOC4zLTg3LjggMjguM3ptLS45IDcyLjVIMzY1YzEwLjggMCAxOC45IDExLjcgMjQgMTkuMi0xNi4xIDEuOS0zMyAyLjgtNTAuNiAyLjl2LTIyLjF6Ij48L3BhdGg+PC9zdmc+" width="35" /></li>
 </ul>
