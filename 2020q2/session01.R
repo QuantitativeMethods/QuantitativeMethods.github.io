@@ -10,15 +10,25 @@ x+y
 x*y
 x**y
 
-#Notice that anything that follows a hashtag is ignored by R. This is how you can comment your code
+
+## -----------------------------------------------------------------------------
+df_a <- read.csv('df_session01a.csv')
+head(df_a)
+str(df_a)
 
 
-## ----setup, warning=FALSE, message=FALSE--------------------------------------
-library(dplyr)
+## -----------------------------------------------------------------------------
+df_b <- read.csv('df_session01b.csv')
+head(df_b)
+str(df_b)
 
 
+## -----------------------------------------------------------------------------
+df_b <- read.csv('df_session01b.csv',sep='*')
+head(df_b)
+str(df_b)
 
-## ---- eval=FALSE, echo=FALSE--------------------------------------------------
-## library(knitr)
-## purl('session01.Rmd')
+
+## -----------------------------------------------------------------------------
+sessionInfo()
 

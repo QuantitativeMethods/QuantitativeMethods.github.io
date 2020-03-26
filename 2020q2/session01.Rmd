@@ -39,6 +39,7 @@ You can play around with this interactive document as much as you want. That's w
   * A rendered HTML file <img src="../fa/file-alt-regular.svg" width="22"/>
   * the Rmarkdown source <img src="../fa/markdown-brands.svg" width="35"/>
   * just the R code (without the text) <img src="../fa/r-project-brands.svg"  width="35"/>
+  * data used for the session <img src="../fa/download.svg" width="30"/>
 
 ***
 
@@ -59,9 +60,27 @@ You can play around with this interactive document as much as you want. That's w
 
 ## 4. Reading data
 
-```{r setup, warning=FALSE, message=FALSE}
-library(dplyr)
+Read in the dataframe `df_session01a.csv` and check it's contents
 
+```{r}
+df_a <- read.csv('df_session01a.csv')
+head(df_a)
+str(df_a)
+```
+
+Do the same with `df_session01b.csv`
+```{r}
+df_b <- read.csv('df_session01b.csv')
+head(df_b)
+str(df_b)
+```
+
+Check the documentation of the function `read.csv()` for help and double-check the file `df_session01b.csv`
+
+```{r}
+df_b <- read.csv('df_session01b.csv',sep='*')
+head(df_b)
+str(df_b)
 ```
 
 

@@ -10,7 +10,7 @@ However, working with data can be daunting, particularly when starting out. The 
 
   | Sessions (Q2/2020) | Files |
   | :--- | :---: | 
-  | (21/04) Introduction and first steps | &nbsp;&nbsp;<a href='./2020q2/session01.html' target='_blank'><img src="./fa/file-alt-regular.svg"  width="25"/></a>&nbsp;&nbsp;<a href='./2020q2/session01.Rmd' target='_blank'><img src="./fa/markdown-brands.svg" width="35"/></a>&nbsp;&nbsp;<a href='./2020q2/session01.R' target='_blank'><img src="./fa/r-project-brands.svg"  width="35"/></a> |
+  | (21/04) Introduction and first steps | &nbsp;&nbsp;<a href='./2020q2/session01.html' target='_blank'><img src="./fa/file-alt-regular.svg"  width="25"/></a>&nbsp;&nbsp;<a href='./2020q2/session01.Rmd' target='_blank'><img src="./fa/markdown-brands.svg" width="35"/></a>&nbsp;&nbsp;<a href='./2020q2/session01.R' target='_blank'><img src="./fa/r-project-brands.svg"  width="35"/></a>&nbsp;&nbsp;<a href='./2020q2/session01.zip' target='_blank'><img src="./fa/download.svg"  width="30"/></a> |
   | (05/05) Data exploration and generation | |
   | (19/05) TBA | |
   | (02/06) TBA | |
